@@ -1,0 +1,12 @@
+mex cimgnbmap_lower.cpp
+mex mex_XindicatorTimesX.cpp
+mex mex_affinity_option.cpp
+mex mex_computeRowSum.cpp
+mex mex_constraint_classes.cpp
+mex mex_extractMaxima.cpp
+mex mex_matrix_op_repmat_vector.cpp
+mex mex_neighborW.cpp
+mex mex_normalizeColumns.cpp
+mex mex_projection_QR_symmetric.cpp
+mex mex_w_times_x_symmetric_tril.cpp
+mex spmtimesd.cpp
